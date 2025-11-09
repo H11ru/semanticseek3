@@ -1,7 +1,0 @@
-model_name: intfloat/multilingual-e5-base
-batch_size: 64
-hnsw:
-  space: cosine
-  M: 32
-  ef_construction: 200
-  ef_search: 256
