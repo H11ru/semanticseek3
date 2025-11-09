@@ -1,0 +1,56 @@
+{
+  "language": "en",
+  "version": "2025-11-07",
+  "categories": {
+    "Animals": [
+      "dog", "cat", "wolf", "moose", "squirrel", "rabbit",
+      "bear", "fox", "lynx", "beaver", "deer", "reindeer",
+      "horse", "cow", "pig", "sheep", "goat", "chicken"
+    ],
+    "Food": [
+      "bread", "cheese", "butter", "soup", "apple", "berry",
+      "fish", "meat", "potato", "cabbage", "carrot", "onion",
+      "milk", "cream", "yogurt", "coffee", "tea", "juice"
+    ],
+    "Nature": [
+      "forest", "lake", "river", "mountain", "rock", "meadow",
+      "field", "swamp", "bay", "island", "hill", "valley",
+      "shore", "rapids", "stream", "pond", "road", "path"
+    ],
+    "Buildings": [
+      "house", "cottage", "palace", "church", "school", "hospital",
+      "museum", "theater", "store", "restaurant", "hotel", "castle",
+      "tower", "bridge", "station", "harbor", "factory", "warehouse"
+    ],
+    "Vehicles": [
+      "car", "bus", "train", "airplane", "ship", "boat",
+      "bicycle", "motorcycle", "tractor", "truck", "taxi", "subway",
+      "tram", "helicopter", "jet", "sailboat", "quad", "scooter"
+    ],
+    "Weather": [
+      "sun", "cloud", "rain", "snow", "wind", "thunder",
+      "fog", "frost", "ice", "sleet", "storm", "hail",
+      "dew", "rime", "freeze", "heat", "warm", "cold"
+    ],
+    "Colors": [
+      "red", "blue", "green", "yellow", "orange", "violet",
+      "black", "white", "gray", "brown", "pink", "turquoise",
+      "gold", "silver", "bronze", "beige", "purple", "dark"
+    ],
+    "Emotions": [
+      "joy", "sadness", "anger", "fear", "love", "disgust",
+      "shame", "pride", "envy", "pity", "worry", "hope",
+      "happiness", "disappointment", "anxiety", "confusion", "gratitude", "longing"
+    ],
+    "Tools": [
+      "hammer", "screwdriver", "saw", "drill", "file", "chisel",
+      "pliers", "wrench", "tape measure", "level", "plane", "axe",
+      "shovel", "rake", "crowbar", "chisel", "knife", "scissors"
+    ],
+    "Music": [
+      "piano", "guitar", "violin", "drums", "trumpet", "flute",
+      "accordion", "saxophone", "cello", "harp", "clarinet", "oboe",
+      "bassoon", "trombone", "cymbal", "tambourine", "singing", "melody"
+    ]
+  }
+}

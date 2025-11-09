@@ -1,0 +1,13 @@
+# Switched from intfloat/multilingual-e5-base to paraphrase-multilingual for better
+# word-level similarity discrimination. The E5 model gave too compressed scores (0.78-0.92)
+# making it hard to distinguish related from unrelated words. This model provides:
+# - Better score spread (0.06-0.94) for more interesting gameplay
+# - Clear "almost correct" answers that teach semantic relationships
+# - More educational and fun experience
+model_name: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+batch_size: 64
+hnsw:
+  space: cosine
+  M: 32
+  ef_construction: 200
+  ef_search: 256

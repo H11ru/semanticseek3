@@ -1,0 +1,56 @@
+{
+  "language": "fi",
+  "version": "2025-11-07",
+  "categories": {
+    "Eläimet": [
+      "koira", "kissa", "susi", "hirvi", "orava", "jänis",
+      "karhu", "kettu", "ilves", "majava", "peura", "poro",
+      "hevonen", "lehmä", "sika", "lammas", "vuohi", "kana"
+    ],
+    "Ruoka": [
+      "leipä", "juusto", "voi", "keitto", "omena", "marja",
+      "kala", "liha", "peruna", "kaali", "porkkana", "sipuli",
+      "maito", "piimä", "kerma", "jogurtti", "kahvi", "tee"
+    ],
+    "Luonto": [
+      "metsä", "järvi", "joki", "vuori", "kallio", "niitty",
+      "pelto", "suo", "lahti", "saari", "mäki", "laakso",
+      "ranta", "koski", "puro", "lampi", "tie", "polku"
+    ],
+    "Rakennukset": [
+      "talo", "mökki", "palatsi", "kirkko", "koulu", "sairaala",
+      "museo", "teatteri", "kauppa", "ravintola", "hotelli", "linna",
+      "torni", "silta", "asema", "satama", "tehdas", "varasto"
+    ],
+    "Ajoneuvot": [
+      "auto", "bussi", "juna", "lentokone", "laiva", "vene",
+      "polkupyörä", "moottoripyörä", "traktori", "kuorma-auto", "taksi", "metro",
+      "raitiovaunu", "helikopteri", "suihkukone", "purjevene", "mönkijä", "skootteri"
+    ],
+    "Sää": [
+      "aurinko", "pilvi", "sade", "lumi", "tuuli", "ukkonen",
+      "sumu", "halla", "jää", "räntä", "myrsky", "huurre",
+      "kasteen", "kuura", "pakkanen", "helle", "lämpö", "kylmä"
+    ],
+    "Värit": [
+      "punainen", "sininen", "vihreä", "keltainen", "oranssi", "violetti",
+      "musta", "valkoinen", "harmaa", "ruskea", "pinkki", "turkoosi",
+      "kulta", "hopea", "pronssi", "beige", "purppura", "tumma"
+    ],
+    "Tunteet": [
+      "ilo", "suru", "viha", "pelko", "rakkaus", "inho",
+      "häpeä", "ylpeys", "kateus", "sääli", "huoli", "toivo",
+      "onnellisuus", "pettymys", "ahdistus", "hämäsyys", "kiitollisuus", "kaiho"
+    ],
+    "Työkalut": [
+      "vasara", "ruuvimeisseli", "saha", "porakone", "viila", "taltta",
+      "pihtit", "avain", "mittanauha", "vesipas", "höylä", "kirves",
+      "lapio", "harava", "hanko", "meisseli", "puukko", "sakset"
+    ],
+    "Musiikki": [
+      "piano", "kitara", "viulu", "rumpuset", "trumpetti", "huilu",
+      "haitari", "saksofoni", "sello", "kantele", "harmonikka", "klarinetti",
+      "oboe", "fagotti", "harppu", "lyömäsoittimet", "laulu", "sävel"
+    ]
+  }
+}
